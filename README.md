@@ -10,7 +10,7 @@ Implement [U-Net: Convolutional Neural Network](https://arxiv.org/pdf/1505.04597
 ### Preconditition
 ### Installtion
 ### Run
-## Buit With
+## Built With
 
 ## Authors and Thanks
 * Mingu Kang - [github](https://github.com/minqukanq)
